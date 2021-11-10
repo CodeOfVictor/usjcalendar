@@ -10,12 +10,13 @@ const locales = {
 const localizer = momentLocalizer(moment);
 
 const events = [
-  {
-    title: 'prueba',
-    allDay: true,
-    start: new Date(2021, 10, 11),
-    end: new Date(2021, 10, 11)
-  }
+  { title: "ANALISIS Y CALCULO: Ejercicios foro", allDay: true, start: new Date(2021, 10, 15), end: new Date(2021, 10, 15) },
+  { title: "Game Engine Design", allDay: true, start: new Date(2021, 10, 15), end: new Date(2021, 10, 15) },
+  { title: "ANALISIS Y CALCULO: EXAMEN", allDay: true, start: new Date(2021, 10, 18), end: new Date(2021, 10, 18) },
+  { title: "EXAMEN: Computer Graphics", allDay: true, start: new Date(2021, 10, 30), end: new Date(2021, 10, 30) },
+  { title: "FIESTA", allDay: true, start: new Date(2021, 11, 6), end: new Date(2021, 11, 8) },
+  { title: "GAMERGY", allDay: true, start: new Date(2021, 11, 17), end: new Date(2021, 11, 19) },
+  { title: "NAVIDAD", allDay: true, start: new Date(2021, 11, 22), end: new Date(2022, 0, 7) }
 ]
 
 
