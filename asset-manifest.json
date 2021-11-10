@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/usjcalendar/static/css/main.55c4f027.chunk.css",
-    "main.js": "/usjcalendar/static/js/main.4c03ce4d.chunk.js",
-    "main.js.map": "/usjcalendar/static/js/main.4c03ce4d.chunk.js.map",
+    "main.js": "/usjcalendar/static/js/main.55b366c8.chunk.js",
+    "main.js.map": "/usjcalendar/static/js/main.55b366c8.chunk.js.map",
     "runtime-main.js": "/usjcalendar/static/js/runtime-main.72c84027.js",
     "runtime-main.js.map": "/usjcalendar/static/js/runtime-main.72c84027.js.map",
     "static/css/2.9aaf2cf1.chunk.css": "/usjcalendar/static/css/2.9aaf2cf1.chunk.css",
-    "static/js/2.d5c258e2.chunk.js": "/usjcalendar/static/js/2.d5c258e2.chunk.js",
-    "static/js/2.d5c258e2.chunk.js.map": "/usjcalendar/static/js/2.d5c258e2.chunk.js.map",
+    "static/js/2.bfdc92bd.chunk.js": "/usjcalendar/static/js/2.bfdc92bd.chunk.js",
+    "static/js/2.bfdc92bd.chunk.js.map": "/usjcalendar/static/js/2.bfdc92bd.chunk.js.map",
     "static/js/3.4c839a89.chunk.js": "/usjcalendar/static/js/3.4c839a89.chunk.js",
     "static/js/3.4c839a89.chunk.js.map": "/usjcalendar/static/js/3.4c839a89.chunk.js.map",
     "index.html": "/usjcalendar/index.html",
     "static/css/2.9aaf2cf1.chunk.css.map": "/usjcalendar/static/css/2.9aaf2cf1.chunk.css.map",
     "static/css/main.55c4f027.chunk.css.map": "/usjcalendar/static/css/main.55c4f027.chunk.css.map",
-    "static/js/2.d5c258e2.chunk.js.LICENSE.txt": "/usjcalendar/static/js/2.d5c258e2.chunk.js.LICENSE.txt"
+    "static/js/2.bfdc92bd.chunk.js.LICENSE.txt": "/usjcalendar/static/js/2.bfdc92bd.chunk.js.LICENSE.txt",
+    "static/media/schedule.ca3db19d.PNG": "/usjcalendar/static/media/schedule.ca3db19d.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.72c84027.js",
     "static/css/2.9aaf2cf1.chunk.css",
-    "static/js/2.d5c258e2.chunk.js",
+    "static/js/2.bfdc92bd.chunk.js",
     "static/css/main.55c4f027.chunk.css",
-    "static/js/main.4c03ce4d.chunk.js"
+    "static/js/main.55b366c8.chunk.js"
   ]
 }
