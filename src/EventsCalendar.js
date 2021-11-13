@@ -11,7 +11,7 @@ export const getEvents = () => {
         { title: "ETICA: Trabajo grupal", allDay: true, start: new Date(2022, 0, 7), end: new Date(2022, 0, 7) },
         { title: "NAVIDAD", allDay: true, start: new Date(2021, 11, 22), end: new Date(2022, 0, 8) },
         { title: "GAMERGY", allDay: true, start: new Date(2021, 11, 17), end: new Date(2021, 11, 20) },
-        { title: "Doble clase etica", allDay: true, start: new Date(2021, 11, 17), end: new Date(2021, 11, 17) },
+        { title: "Doble clase etica", allDay: true, start: new Date(2021, 11, 16), end: new Date(2021, 11, 16) },
         { title: "Ing Soft: Group work 1. Research about a topic", allDay: true, start: new Date(2021, 11, 14), end: new Date(2021, 11, 14) },
         { title: "Doble clase Web", allDay: true, start: new Date(2021, 11, 9), end: new Date(2021, 11, 9) },
         { title: "FIESTA", allDay: true, start: new Date(2021, 11, 6), end: new Date(2021, 11, 9) },
@@ -22,6 +22,7 @@ export const getEvents = () => {
         { title: "ANALISIS Y CALCULO: EXAMEN", allDay: true, start: new Date(2021, 10, 18), end: new Date(2021, 10, 18) },
         { title: "Game Engine Design", allDay: true, start: new Date(2021, 10, 15), end: new Date(2021, 10, 15) },
         { title: "ANALISIS Y CALCULO: Ejercicios foro", allDay: true, start: new Date(2021, 10, 15), end: new Date(2021, 10, 15) },
+        { title: "Computer Graphics: CG-Ex-2", allDay: true, start: new Date(2021, 10, 14), end: new Date(2021, 10, 14) },
         { title: "Ing soft: Se abren fechas 14:00", allDay: true, start: new Date(2021, 10, 11), end: new Date(2021, 10, 11) }
     ];
 }
