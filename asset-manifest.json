@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/usjcalendar/static/css/main.f1495a11.chunk.css",
-    "main.js": "/usjcalendar/static/js/main.2f4e0fe7.chunk.js",
-    "main.js.map": "/usjcalendar/static/js/main.2f4e0fe7.chunk.js.map",
+    "main.js": "/usjcalendar/static/js/main.2e94d43a.chunk.js",
+    "main.js.map": "/usjcalendar/static/js/main.2e94d43a.chunk.js.map",
     "runtime-main.js": "/usjcalendar/static/js/runtime-main.d3f8ab0c.js",
     "runtime-main.js.map": "/usjcalendar/static/js/runtime-main.d3f8ab0c.js.map",
     "static/css/2.9aaf2cf1.chunk.css": "/usjcalendar/static/css/2.9aaf2cf1.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.9aaf2cf1.chunk.css",
     "static/js/2.39ae67c2.chunk.js",
     "static/css/main.f1495a11.chunk.css",
-    "static/js/main.2f4e0fe7.chunk.js"
+    "static/js/main.2e94d43a.chunk.js"
   ]
 }
