@@ -13,6 +13,8 @@ export const getEvents = () => {
         { title: "GAMERGY", allDay: true, start: new Date(2021, 11, 17), end: new Date(2021, 11, 20) },
         { title: "Doble clase etica", allDay: true, start: new Date(2021, 11, 16), end: new Date(2021, 11, 16) },
         { title: "Ing Soft: Group work 1. Research about a topic", allDay: true, start: new Date(2021, 11, 14), end: new Date(2021, 11, 14) },
+        { title: "Start Unreal engine", allDay: true, start: new Date(2021, 11, 13), end: new Date(2021, 11, 13) },
+        { title: "Motor engine", allDay: true, start: new Date(2021, 11, 13), end: new Date(2021, 11, 13) },
         { title: "EXAMEN LEGISLACION", allDay: true, start: new Date(2021, 11, 13), end: new Date(2021, 11, 13) },
         { title: "GAME OF THE YEAR", allDay: true, start: new Date(2021, 11, 10), end: new Date(2021, 11, 10) },
         { title: "EXAMEN DE INTERFACES", allDay: true, start: new Date(2021, 11, 9), end: new Date(2021, 11, 9) },
