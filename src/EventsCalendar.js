@@ -9,7 +9,7 @@ export const getEvents = () => {
         { title: "EXAMEN: Persona-Computador", allDay: true, start: new Date(2022, 0, 21), end: new Date(2022, 0, 21) },
         { title: "Enseñar motor?", allDay: true, start: new Date(2022, 0, 21), end: new Date(2022, 0, 21) },
         { title: "EXAMEN: Legislacion", allDay: true, start: new Date(2022, 0, 21), end: new Date(2022, 0, 21) },
-        { title: "Presentar interfaz telefono", allDay: true, start: new Date(2022, 0, 21), end: new Date(2022, 0, 21) },
+        { title: "Presentar interfaz telefono", allDay: true, start: new Date(2022, 0, 20), end: new Date(2022, 0, 20) },
         { title: "EXAMEN: Software", allDay: true, start: new Date(2022, 0, 19), end: new Date(2022, 0, 19) },
         { title: "Tabajo legislacion", allDay: true, start: new Date(2022, 0, 17), end: new Date(2022, 0, 17) },
         { title: "Tabajo interfaz telefono", allDay: true, start: new Date(2022, 0, 16), end: new Date(2022, 0, 16) },
