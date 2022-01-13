@@ -1,13 +1,15 @@
 export const getEvents = () => {
     return [
+        { title: "Nuevo cuatrimestre", allDay: true, start: new Date(2022, 1, 7), end: new Date(2022, 1, 7) },
+        { title: "Presentar web grupal", allDay: true, start: new Date(2022, 1, 1), end: new Date(2022, 1, 4) },
+        { title: "Entregar web grupal", allDay: true, start: new Date(2022, 1, 1), end: new Date(2022, 1, 1) },
+
         { title: "Web trabajo grupal", allDay: true, start: new Date(2022, 0, 30), end: new Date(2022, 0, 30) },
         { title: "EXAMEN: Grafica", allDay: true, start: new Date(2022, 0, 28), end: new Date(2022, 0, 28) },
         { title: "EXAMEN: AyC", allDay: true, start: new Date(2022, 0, 27), end: new Date(2022, 0, 27) },
         { title: "EXAMEN: Web", allDay: true, start: new Date(2022, 0, 27), end: new Date(2022, 0, 27) },
-        { title: "EXAMEN: Motores", allDay: true, start: new Date(2022, 0, 25), end: new Date(2022, 0, 25) },
-        { title: "FIESTA SAN VALERO", allDay: true, start: new Date(2022, 0, 28), end: new Date(2022, 0, 28) },
+        { title: "Enseñar motor", allDay: true, start: new Date(2022, 0, 25), end: new Date(2022, 0, 25) },
         { title: "EXAMEN: Persona-Computador", allDay: true, start: new Date(2022, 0, 21), end: new Date(2022, 0, 21) },
-        { title: "Enseñar motor?", allDay: true, start: new Date(2022, 0, 21), end: new Date(2022, 0, 21) },
         { title: "EXAMEN: Legislacion", allDay: true, start: new Date(2022, 0, 21), end: new Date(2022, 0, 21) },
         { title: "Presentar interfaz telefono", allDay: true, start: new Date(2022, 0, 20), end: new Date(2022, 0, 20) },
         { title: "EXAMEN: Software", allDay: true, start: new Date(2022, 0, 19), end: new Date(2022, 0, 19) },
