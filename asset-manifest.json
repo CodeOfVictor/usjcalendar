@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/usjcalendar/static/css/main.f1495a11.chunk.css",
-    "main.js": "/usjcalendar/static/js/main.e2591975.chunk.js",
-    "main.js.map": "/usjcalendar/static/js/main.e2591975.chunk.js.map",
+    "main.js": "/usjcalendar/static/js/main.eb2a440c.chunk.js",
+    "main.js.map": "/usjcalendar/static/js/main.eb2a440c.chunk.js.map",
     "runtime-main.js": "/usjcalendar/static/js/runtime-main.d3f8ab0c.js",
     "runtime-main.js.map": "/usjcalendar/static/js/runtime-main.d3f8ab0c.js.map",
     "static/css/2.9aaf2cf1.chunk.css": "/usjcalendar/static/css/2.9aaf2cf1.chunk.css",
@@ -14,13 +14,13 @@
     "static/css/2.9aaf2cf1.chunk.css.map": "/usjcalendar/static/css/2.9aaf2cf1.chunk.css.map",
     "static/css/main.f1495a11.chunk.css.map": "/usjcalendar/static/css/main.f1495a11.chunk.css.map",
     "static/js/2.39ae67c2.chunk.js.LICENSE.txt": "/usjcalendar/static/js/2.39ae67c2.chunk.js.LICENSE.txt",
-    "static/media/schedule.ca3db19d.PNG": "/usjcalendar/static/media/schedule.ca3db19d.PNG"
+    "static/media/horario.afc058ad.png": "/usjcalendar/static/media/horario.afc058ad.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d3f8ab0c.js",
     "static/css/2.9aaf2cf1.chunk.css",
     "static/js/2.39ae67c2.chunk.js",
     "static/css/main.f1495a11.chunk.css",
-    "static/js/main.e2591975.chunk.js"
+    "static/js/main.eb2a440c.chunk.js"
   ]
 }
